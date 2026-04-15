@@ -1,96 +1,62 @@
-# 👋 Introduction
+# Oscar Paulo Del Rio Rojas
 
-Hi, I'm **Oscar Del Rio**! I'm a passionate software engineer with a focus on building modern web applications.
+### Professional Profile
 
----
+**Full Stack Developer**  
 
-# 🧑‍💻 About Me
+### Experience  
+- **SPS GROUP**  
+  *July 2025 - February 2026*
 
-I have a background in computer science and have been working in the tech industry for over 5 years. I love solving complex problems and building responsive applications. When I'm not coding, I enjoy hiking and photography.
+- **MC4 SRL**  
+  *April 2024 - June 2025*  
+  Clients: Natura BMSC Prosalud, OptiVentas  
 
----
+### Technical Skills  
+- ![Angular](https://img.shields.io/badge/-Angular-red)  
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC)  
+- ![React](https://img.shields.io/badge/-React-blue)  
+- ![Next.js](https://img.shields.io/badge/-Next.js-black)  
+- ![Java](https://img.shields.io/badge/-Java-orange)  
+- ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green)  
+- ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B)  
+- ![Flutter](https://img.shields.io/badge/-Flutter-blue)  
+- ![React Native](https://img.shields.io/badge/-React_Native-61DAFB)  
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791)  
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)  
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28)  
+- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E)  
+- ![Jira](https://img.shields.io/badge/-Jira-0052CC)  
+- ![Scrum](https://img.shields.io/badge/-Scrum-FF9800)  
+- ![Kanban](https://img.shields.io/badge/-Kanban-0079BF)  
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37)  
+- ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE)  
+- ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D)  
+- ![JBoss](https://img.shields.io/badge/-JBoss-C7C9C2)  
+- ![Git](https://img.shields.io/badge/-Git-F05032)  
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717)  
 
-# 💻 Technical Skills
+### Education  
+- **Maestría en Ciberseguridad**  
+  SOE-UAGRM  
 
-### Languages & Frameworks
+- **Diplomado DevOps**  
 
-![Angular](https://img.shields.io/badge/Angular-%E03E3E?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2398C52A?style=for-the-badge&logo=spring&logoColor=white)
+- **Ingeniería en Informática**  
+  2019-2024
 
----
+### Languages  
+- **Castellano**  
+- **English** (B2)
 
-# 📊 GitHub Statistics
+### Contact Information  
+- Email: oscardelrio89@gmail.com  
+- Phone: +591 78575353  
+- LinkedIn: [Oscar Paulo Del Rio Rojas](www.linkedin.com/in/oscar-paulo-del-rio-rojas-9992591b4)  
+- GitHub: [osder89](https://github.com/osder89)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=osder89&show_icons=true&theme=radical)
+### GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osder89&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
----
-
-# 💼 Professional Experience
-
-**Software Engineer**  
-**Company Name | Location**  
-*January 2019 - Present*  
-- Developed multiple web applications using Angular and Node.js.
-- Collaborated with cross-functional teams to deliver high-quality software.
-
-**Junior Developer**  
-**Company Name | Location**  
-*June 2017 - December 2018*  
-- Assisted in the development of e-commerce applications.
-- Contributed to database management and backend services.
-
----
-
-# 🎓 Education
-
-**Bachelor's Degree in Computer Science**  
-**University Name | Graduation Year**
-
----
-
-# 🌟 Highlighted Projects
-
-- [Project 1](https://github.com/osder89/project1) - A web application for ...
-- [Project 2](https://github.com/osder89/project2) - A mobile application that ...
-
----
-
-# 🔑 Key Knowledge
-
-- RESTful API Development
-- Database Management (SQL, NoSQL)
-- Microservices Architecture
-
----
-
-# 🥅 Professional Objectives
-
-To leverage my skills in software development and contribute to meaningful projects that enhance user experiences.
-
----
-
-# 📞 Contact Information
-
-Feel free to reach out:  
-**LinkedIn:** [linkedin.com/in/oscardelrio](https://linkedin.com/in/oscardelrio)  
-**Twitter:** [twitter.com/oscar_del_rio](https://twitter.com/oscar_del_rio)
-
----
-
-# 📈 Contribution Statistics
-
-![Contribution stats](https://github.com/osder89/osder89/graphs/contributors)
-
----
-
-# 👀 Visitor Counter
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=osder89.osder89)
-
----
-
-# 💡 Inspirational Quotes
-
-> "The best way to predict the future is to create it." - **Peter Drucker**  
-> "Success is not final, failure is not fatal: It is the courage to continue that counts." - **Winston Churchill**  
-
----
+### GitHub Contributions  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=osder89&theme=radical)
